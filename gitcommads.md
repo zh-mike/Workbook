@@ -87,6 +87,10 @@
 3. **git add .gitignore** - добавляем файл к гиту
 4. **git commit -m "Комментарий"** - комитим файл
 
+**_Как в Git вернуть файл к состоянию в последнем коммите?_** 
+
+https://world-hello.ru/scv/git/how-to/kak-v-git-vernut-fajl-k-sostoyaniyu-v-poslednem-kommite.html?ysclid=l81yyj4fsj846978682
+
 
 
 
