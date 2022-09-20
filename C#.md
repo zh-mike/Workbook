@@ -68,6 +68,33 @@
 
     Console.WriteLine("[" + string.Join(",", arrey) + "]"); // так красиво можно выводить содержимое массива
     // Выведет на экран [1, 2, 3, ...]
+    
+## Двумерные массивы
+    int[,] matrix = new int[3, 3]; // Создать двумерный массив 3 столбца, 3 строки
+    
+    
+    // Рандомное заполнение массива
+    void InputMatrix(int[,] matrix)
+    {
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < matrix.GetLength(1); j++)
+                matrix[i, j] = new Random().Next(-10, 11);
+        }
+    }
+    
+    
+    // Вывод массива в консоль
+    void PrintMatrix(int[,] matrix)
+    {
+        Console.WriteLine();
+        for (int i = 0; i < matrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < matrix.GetLength(1); j++)
+                Console.Write(matrix[i, j] + " \t");
+                Console.WriteLine();
+        }
+    }
 
 ## Сумма арефметической прогрессии
     //Формула ((A1 + An) / 2) * An 
