@@ -1,6 +1,10 @@
 # Введение в контроль версий Git
 
+## Первоначальные настройки git
 
+    git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com
+  
 ## Команды git
 
 **git --version** - Чтобы проверить правильно ли установлен git 
