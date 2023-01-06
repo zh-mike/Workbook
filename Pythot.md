@@ -46,3 +46,13 @@
 
 Источник: https://pythonstart.ru/string/find-python 
 
+**round()** возвращает число с плавающей запятой, округленное до указанного количества десятичных знаков.
+
+Источник: https://pythonstart.ru/osnovy/round-python 
+
+    def func(a_1, a_2, *args, **kwargs): # под '*' кортеж, под '**' словарь 
+        return a_1, a_2, args, kwargs
+
+    print(func(1, 2, 3, 4, 542, 124, 'wetwet', key_1=10, key_2=30))
+
+    #(1, 2, (3, 4, 542, 124, 'wetwet'), {'key_1': 10, 'key_2': 30})
