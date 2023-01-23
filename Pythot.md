@@ -58,3 +58,9 @@
     Вывод: (1, 2, (3, 4, 542, 124, 'wetwet'), {'key_1': 10, 'key_2': 30})
 
 **bin()** # переводит целое число в двоичное
+
+**Найти корень квадратного уравнения Ax²+Bx+C=0**
+
+https://all-python.ru/primery/kvadratnoe-uravnenie.html
+
+https://skysmart.ru/articles/mathematic/kak-najti-diskriminant-kvadratnogo-uravneniya
