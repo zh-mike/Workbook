@@ -72,3 +72,5 @@ https://skysmart.ru/articles/mathematic/kak-najti-diskriminant-kvadratnogo-uravn
         my_print.writelines(f'привет\n')
         
 https://pythonstart.ru/osnovy/open-python
+
+**type()** # Выводит тип объекта (str, int, float)
