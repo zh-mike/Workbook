@@ -64,3 +64,11 @@
 https://all-python.ru/primery/kvadratnoe-uravnenie.html
 
 https://skysmart.ru/articles/mathematic/kak-najti-diskriminant-kvadratnogo-uravneniya
+
+
+**Работа с файлами**
+
+    with open(f_path, 'a') as my_print:
+        my_print.writelines(f'привет\n')
+        
+https://pythonstart.ru/osnovy/open-python
