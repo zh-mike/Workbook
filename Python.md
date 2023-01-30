@@ -74,3 +74,11 @@ https://skysmart.ru/articles/mathematic/kak-najti-diskriminant-kvadratnogo-uravn
 https://pythonstart.ru/osnovy/open-python
 
 **type()** # Выводит тип объекта (str, int, float)
+
+**try except**
+    
+    try: # Если при выполнении try возникнет ошибка, выполняется except
+        print(fib.index(a))
+    except:
+        print('Такого числа нет в последовательности')
+
