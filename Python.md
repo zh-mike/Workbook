@@ -82,3 +82,7 @@ https://pythonstart.ru/osnovy/open-python
     except:
         print('Такого числа нет в последовательности')
 
+**text.index(что нужно найти)** # Найти индекс по элементу
+
+https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
+
