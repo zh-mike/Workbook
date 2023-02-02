@@ -86,3 +86,14 @@ https://pythonstart.ru/osnovy/open-python
 
 https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
 
+**lambda** Как описать функцию если она нужна только один раз
+
+    def maxi( a, b):
+        if a > b:
+            return a
+        else:
+            return b
+    print(maxi(4, 5))
+**Более компактный вариант:**
+
+    # print((lambda a, b: a if a > b else b)(4, 5))
