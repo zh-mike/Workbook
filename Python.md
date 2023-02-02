@@ -1,5 +1,9 @@
 # Синтаксис Python
 
+**tuple - кортеж**
+
+**list - список**
+ 
 **range()** # Переберает числ
     range(stop) 
     range(start, stop[, step])
