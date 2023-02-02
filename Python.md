@@ -37,6 +37,12 @@
 
 Источник: https://pythonstart.ru/string/metod-str-split-python 
 
+**.lower()** # Приводит строки в нижний регистр
+
+**.upper()** # Приводит строки в верхний регистр
+
+Источник: https://pythonstart.ru/string/lower-upper-python 
+
 **find()** # Возвращает наивысший индекс подстроки (если найден). Если не найден, возвращается -1.
 
     str.rfind(sub[, start[, end]] )
