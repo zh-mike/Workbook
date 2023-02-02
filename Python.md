@@ -23,6 +23,8 @@
 
 **.append()** # Добавляет в конец списка значение
 
+**.insert(<i>, <el>)** # Добавляет элемент на указаный индекс
+
 Источник: https://pythonstart.ru/list/metod-pop-remove-python 
 
 **max()** # Находит максимальное значение 
@@ -116,3 +118,10 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
     ['ПРИВЕТ', 'СУТУЛЫЙ']
     
 Источник: https://pythonstart.ru/osnovy/map-python 
+
+**Что бы вывести список без скобок и запятых
+
+    my_list = [1, 2, 3, 4]
+    print(*my_list)
+    >>>>
+    1, 2, 3, 4
