@@ -33,6 +33,9 @@
 
 Источник: https://pythonstart.ru/list/metod-pop-remove-python 
 
+**.items()** # Возвращает объект представления, который отображает список пар кортежей словаря (ключ, значение).
+
+Источник: https://pythonstart.ru/dictionary/metod-items-python 
 **max()** # Находит максимальное значение 
 
 **min()** # Находит минимальное значение
