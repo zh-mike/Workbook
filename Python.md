@@ -23,7 +23,7 @@
 
 **.append()** # Добавляет в конец списка значение
 
-**.insert(i, el)** # Добавляет элемент на указаный индекс
+**.insert(i, el)** # Добавляет элемент(el) на указаный индекс(i)
 
 Источник: https://pythonstart.ru/list/metod-pop-remove-python 
 
