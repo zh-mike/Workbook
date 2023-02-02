@@ -94,9 +94,9 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
         else:
             return b
     print(maxi(4, 5))
-**Более компактный вариант:**
-
-    # print((lambda a, b: a if a > b else b)(4, 5))
+    
+    **Более компактный вариант:**
+    print((lambda a, b: a if a > b else b)(4, 5))
 
 **abs()** # Возвращает абсолютное значение заданного числа.
 
