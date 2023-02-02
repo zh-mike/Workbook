@@ -107,3 +107,12 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
 **abs()** # Возвращает абсолютное значение заданного числа.
 
 Источник: https://pythonstart.ru/osnovy/funktsiya-abs-python 
+
+**map()** Применяет данную функцию к каждому элементу итерации (список, кортеж и т.д.) и возвращает список результатов.
+
+    my_list = ['привет', 'СуТуЛыЙ']
+    print(list(map(str.upper, my_list)))
+    >>>
+    ['ПРИВЕТ', 'СУТУЛЫЙ']
+    
+Источник: https://pythonstart.ru/osnovy/map-python 
