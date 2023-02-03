@@ -7,7 +7,10 @@
 **dict - словарь - {:}**
 
 **rozenset - множество - {}**
- 
+    
+    .add() # Добавить значение
+    .remove() # Удалить значение
+    
 **range()** # Переберает числ
     range(stop) 
     range(start, stop[, step])
