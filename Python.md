@@ -23,6 +23,8 @@
     dr = b.difference(a) # dr = {13, 21}
     q = a.union(b).difference(a.intersection(b))# {1, 21, 3, 13}
     
+    frozenset() # Заморозить множество 
+    
 **range()** # Переберает числ
     range(stop) 
     range(start, stop[, step])
