@@ -156,3 +156,5 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
 Источник: https://pythonstart.ru/osnovy/issubclass-isinstance-python 
 
 **id()** # Узнать id переменной где лежит
+
+**python -m cProfile -s time prof.py 10001** # Вызвать оценку программы по времени выполнения
