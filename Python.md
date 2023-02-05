@@ -18,7 +18,7 @@
 
 Источник: https://pythonstart.ru/dictionary/metod-items-python 
 
-**rozenset - множество - {}**
+**set - множество - {}**
     
     .add() # Добавить значение
     .remove() # Удалить значение, если значения нет выдает ошибку
