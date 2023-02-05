@@ -154,3 +154,5 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
 
 **.isinstance()** # Проверяет относится ли переменная к классу внутри скобок
 Источник: https://pythonstart.ru/osnovy/issubclass-isinstance-python 
+
+**id()** # Узнать id переменной где лежит
