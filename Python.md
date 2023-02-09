@@ -165,4 +165,8 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
 
 **" ".join(my_list)** # перевести список в строку вначале чем соединять в данном случии пробел
 
-**Про виртуальное окружение** https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv
+# Про виртуальное окружение
+
+**source venv/bin/activate** # активировать виртуальное окружение
+
+https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv
