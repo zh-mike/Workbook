@@ -164,3 +164,5 @@ https://pythonist.ru/kak-opredelit-indeks-elementa-spiska-v-python/
 **.count()** # сколько значений в списке
 
 **" ".join(my_list)** # перевести список в строку вначале чем соединять в данном случии пробел
+
+**Про виртуальное окружение** https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv
