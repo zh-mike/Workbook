@@ -174,3 +174,6 @@ https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv
 **eval()** # выполняет строку-выражение, переданную ей в качестве обязательного аргумента и возвращает результат выполнения этой строки.
 
 https://docs-python.ru/tutorial/vstroennye-funktsii-interpretatora-python/funktsija-eval/
+
+
+**pip install [название библиотеки]** # Установка библиотек
