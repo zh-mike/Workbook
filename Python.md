@@ -179,3 +179,8 @@ https://docs-python.ru/tutorial/vstroennye-funktsii-interpretatora-python/funkts
 **pip install [название библиотеки]** # Установка библиотек
 
 **python3 -m venv venv** # Установка виртуального окружения
+
+**source venv/bin/activate** # Активировать виртуальное окружение
+
+**deactivate** # Выйти из виртуального окружения
+
